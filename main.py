@@ -1,3 +1,5 @@
 print("lab 1:Version Control")
 print("Author: ADAM MANDAPAT")
 print("Student ID: TUPM-25_0704")
+print("Class Section:[BSECE 1B]")
+print("Login Feature Enabled")
